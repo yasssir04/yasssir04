@@ -2,12 +2,18 @@
 
 ## 🔧 Tech Stack & Skills  
 
-- **Programming Languages:** Python, Java, TypeScript, JavaScript
-- **AI:** Azure AI stack, Google AI stack, Oracle AI stack, IBM/watsonx AI stack, Databricks AI stack, LangChain, LlamaIndex, Semantic Kernel, Microsoft Agent Framework, and many more
-- **ML:** Scikit-learn, Pandas, NumPy, OpenCV, YOLO, XGBoost, AutoML, and more
-- **AI/MLOPS:** MLFlow, Databricks, Docker
-- **Web Development:** React, Node.js, and Next.js
-- **Cloud:** Azure, GCP, Databricks, Oracle, GitHub, Docker, Git, AWS
+- **Programming Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **AI:**  
+![Azure AI](https://img.shields.io/badge/Azure%20AI%20Stack-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google AI](https://img.shields.io/badge/Google%20AI%20Stack-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Oracle AI](https://img.shields.io/badge/Oracle%20AI%20Stack-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![IBM watsonx](https://img.shields.io/badge/IBM%2Fwatsonx%20AI%20Stack-052FAD?style=for-the-badge&logo=ibm&logoColor=white) ![Databricks AI](https://img.shields.io/badge/Databricks%20AI%20Stack-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6E56CF?style=for-the-badge) ![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-5E5CE6?style=for-the-badge) ![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft%20Agent%20Framework-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white) ![More](https://img.shields.io/badge/and%20many%20more-6c757d?style=for-the-badge)
+- **ML:**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge) ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge) ![AutoML](https://img.shields.io/badge/AutoML-00A67E?style=for-the-badge) ![More](https://img.shields.io/badge/and%20more-6c757d?style=for-the-badge)
+- **AI/MLOPS:**  
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- **Web Development:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+- **Cloud:**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 
 <!--
