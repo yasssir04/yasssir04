@@ -11,7 +11,7 @@
 - **AI/MLOPS:**  
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white).
 - **AI Observability:**
-![Azure Application Insights](https://img.shields.io/badge/Azure%20Application%20Insights-0078D4?style=for-the-badge)![LangSmith](https://img.shields.io/badge/LangSmith-121212?style=for-the-badge)
+![Azure Application Insights](https://img.shields.io/badge/Azure%20Application%20Insights-0078D4?style=for-the-badge). ![LangSmith](https://img.shields.io/badge/LangSmith-121212?style=for-the-badge)
 
 - **Web Development:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
