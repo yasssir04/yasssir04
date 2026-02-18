@@ -2,12 +2,12 @@
 
 ## 🔧 Tech Stack & Skills  
 
-- **Programming language:** Pyhton, Java, Typescript, Javascript
-- **AI:** Azure AI stack, Google AI stack, Oracle AI stack, IBM/watsonx AI stack, Databricks AI stack, Langchain, Llamaindex, Semantic kernel, Microsoft Agent Framework, and many more
-- **ML:** Scikit-learn, Pandas, Numpy, OpenCV, YOLO, XGBoost, AutoML, and more
+- **Programming Languages:** Python, Java, TypeScript, JavaScript
+- **AI:** Azure AI stack, Google AI stack, Oracle AI stack, IBM/watsonx AI stack, Databricks AI stack, LangChain, LlamaIndex, Semantic Kernel, Microsoft Agent Framework, and many more
+- **ML:** Scikit-learn, Pandas, NumPy, OpenCV, YOLO, XGBoost, AutoML, and more
 - **AI/MLOPS:** MLFlow, Databricks, Docker
 - **Web Development:** React, Node.js, and Next.js
-- **Cloud:** Azure, GCP, Databricks, Oracle, Github, Docker, GIT, AWS
+- **Cloud:** Azure, GCP, Databricks, Oracle, GitHub, Docker, Git, AWS
 
 
 <!--
