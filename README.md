@@ -10,7 +10,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge) ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge) ![AutoML](https://img.shields.io/badge/AutoML-00A67E?style=for-the-badge) ![More](https://img.shields.io/badge/and%20more-6c757d?style=for-the-badge)
 - **AI/MLOPS:**  
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white).
-- **AI Observability:**
+- **AI Observability:**  
 ![Azure Application Insights](https://img.shields.io/badge/Azure%20Application%20Insights-0078D4?style=for-the-badge). ![LangSmith](https://img.shields.io/badge/LangSmith-121212?style=for-the-badge)
 - **Web Development:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
