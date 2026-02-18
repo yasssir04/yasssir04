@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 🔧 Tech Stack & Skills  
 
 - **Programming Languages:**  
